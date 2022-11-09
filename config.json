@@ -1,0 +1,20 @@
+{
+    "name":" Canal Trilhas Bike",
+    "Job": "Ciclista",
+    "logo": "saviocunhaa",
+
+
+
+    "playlist":{
+        "trilhas":[
+
+            {
+                "titulo": "titulo",
+                "url": "url",
+                "thumb" : "thubneio do video"
+
+            }
+
+        ]
+    }
+}
